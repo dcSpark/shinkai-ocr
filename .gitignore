@@ -1,0 +1,5 @@
+target/
+.env
+
+ocrs/*.rten
+pdfium/pdfium-source
